@@ -3,7 +3,6 @@ from setuptools import setup
 setup(
     name='raspberryplot',
     version='0.0.1',
-    packages=[''],
     url='',
     license='',
     author='henrik',
